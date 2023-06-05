@@ -1,4 +1,4 @@
-# Kalkulator Pyhton
+# Kalkulator Sederhana
 
 Pada source code ini ada beberapa kalkulator sederhana untuk pembelajaran
 Terdapat 4 operator matematika sederhana yaitu kali,bagi,tambah,kurang
